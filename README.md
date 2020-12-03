@@ -1,1 +1,1 @@
-# Curator-Assianment
+# Curator-Assignment
